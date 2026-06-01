@@ -4,7 +4,7 @@
 
 Um formulário de login moderno e responsivo com design glassmorphism elegante e efeitos visuais impressionantes.
 
-![Login Dev-Club](/screenshot.png)
+![Login Dev-Club](img-tela-login.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -70,9 +70,10 @@ http://localhost:8000
 
 ```
 login-dev-club/
-├── index.html          # Arquivo principal HTML
-├── style.css          # Estilos CSS
-└── README.md          # Documentação
+├── index.html              # Arquivo principal HTML
+├── style.css              # Estilos CSS
+├── img-tela-login.png     # Screenshot do projeto
+└── README.md              # Documentação
 ```
 
 ---
@@ -158,14 +159,6 @@ Abra [clique aqui](./index.html) para ver a demonstração ao vivo.
 
 ---
 
-## 📸 Preview
-
-![Login Dev-Club Preview](screenshot.png)
-
-_Interface limpa, moderna e intuitiva com design glassmorphism_
-
----
-
 ## 🎓 Conceitos Utilizados
 
 - **Glassmorphism** - Design moderno com efeito vidro
@@ -186,6 +179,7 @@ _Interface limpa, moderna e intuitiva com design glassmorphism_
 
 ## 🤝 Contribuições
 
+Problemas
 Contribuições são bem-vindas! Para contribuir:
 
 1. Faça um **Fork** do projeto
